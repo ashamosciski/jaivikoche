@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chabeipoih.xglab-heartatlas.ai/sitemap.xml
